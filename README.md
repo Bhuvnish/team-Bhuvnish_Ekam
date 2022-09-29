@@ -10,13 +10,12 @@
 adding photo and knowing things about team mate
 
 
-## Contributing
+## About us
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+1. We are from Amritsar,India
+2. My hobbie is to play cricket
+3. My teammate hobbie is to watch movies. 
+4. We  like to eat fast food
 
 ## Credits
  we helped each other equally
