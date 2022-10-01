@@ -12,13 +12,13 @@ adding photo and knowing things about team mate
 
 ## About us
 
-1. We are from Amritsar,India
-2. My hobbie is to play cricket
-3. My teammate hobbie is to watch movies. 
-4. We  like to eat fast food
+  my name  is  Bhuvnish arora, i am from  India. my hobbie is to play cricket. i love to listen music .
+  my  teammate name is Ekampreet kaur , she is also from India . she is very fond of watching movies and she loves to eat fastfood. 
 
 ## Credits
- we helped each other equally
+ arora_bhuvnish
+ kaur_ekam
+ we helped each other 
 
 ## License
 
